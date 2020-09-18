@@ -2,24 +2,9 @@
 
 ## Office hours
 
-If you have questions about this week's lab, reading, or lecture, ANY TA for this class can help you with any problems. That being said, only email YOUR TA at:
+If you have questions about this week's lab, reading, or lecture, ANY TA for this class can help you with any problems. That being said, only email YOUR TA! Office hours are on Discord and Zoom. If none of the times for for you, please don't hesitate to reach out via email to set up another time.
 
-* Dhruv - dhn11@pitt.edu
-* Rae - rac200@pitt.edu
-* Ben - bdr35@pitt.edu
-* Sean - spb60@pitt.edu
-
-If you have questions about this week's lab, reading, or lecture, ANY TA for this class can help you with any problems. Office hours are:
-
-* Monday, 2-4
-* Tuesday, 4-5
-* Thursday, 4-5
-
-Office hours will be held in the same place as last week, the Digital Scholarship Commons in the back of the ground floor of Hillman Library.
-
-If none of these times for for you, please don't hesitate to reach out via email to set up another time.
-
-## Github! :tada:
+## Version control! :tada:
 
 If you didn't make a GitHub account already, do that super quick right now _because_:
 
