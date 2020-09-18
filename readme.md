@@ -14,7 +14,7 @@ This week we will be applying some of our command-line knowledge to learn how to
 
 1. In Canvas (canvas.pitt.edu), click on this class, CMPINF0010
 2. Go to Modules
-5. Click `Skills Lab Week 6` and click where is says `Click Here!`
+5. Click `Skills Lab Week 6` and click `Launch lab on JupyterHub`
 6. JupyterHub should open up to this week's materials!
 
 ### If JupyterLab _really_ doesn't work for you
