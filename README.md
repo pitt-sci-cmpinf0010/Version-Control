@@ -2,7 +2,7 @@
 
 ## Office hours
 
-If you have questions about this week's lab, reading, or lecture, ANY TA for this class can help you with any problems. That being said, only email YOUR TA! Office hours are on Discord and Zoom. If none of the times for for you, please don't hesitate to reach out via email to set up another time.
+If you have questions about this week's lab ANY TA for this class can help you with any problems.
 
 ## Version control! :tada:
 
