@@ -32,7 +32,7 @@ Click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.or
 
 This week you don't need to fill out a Jupyter notebook. Instead you'll be creating a Github repository and populating it with content. You'll submit a link to the repository and we will verify that all of you contributed to the work.
 
-You must work on this assignment in a group. This lab is meant to teach you how to use git and github to collaborate on software engineering projects. You cannot practice collaboration if you are working alone. You will not receive any credit if you attempt to complete this lab on your own. This makes it especially crucial for you to come to lab section to find a partner. If you can't make it to lab section, you should try to find a group through the Discord server.
+This lab and the next one are meant to teach you how to use git and github to collaborate on software engineering projects. You cannot practice collaboration if you are working alone. You must work on this week's and next week's skills lab in a group. You will not receive any credit for this skills lab or the next one you attempt to complete them on your own. Furthermore, you will be working in the same group for both labs. This makes it especially crucial for you to come to lab section to find a partner. If you can't make it to lab section, you should try to find a group through the Discord server.
 
 You may work in a group of two or three people.
 
